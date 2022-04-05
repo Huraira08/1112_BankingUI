@@ -1,0 +1,11 @@
+{
+    "hosting": {
+        "target": "all_cards",
+        "public": "build/web",
+        "ignore": [
+            "firebase.json",
+            "**/.*",
+            "**/node_modules/**"
+        ]
+    }
+}

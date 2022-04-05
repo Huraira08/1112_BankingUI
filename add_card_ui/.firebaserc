@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bankingui"
+  },
+  "targets": {
+    "bankingui": {
+      "hosting": {
+        "add_card": [
+          "addcard-1112"
+        ]
+      }
+    }
+  }
+}
