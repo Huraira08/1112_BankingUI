@@ -125,16 +125,27 @@ class AllCards extends StatelessWidget {
                             SizedBox(
                               width: 16,
                             ),
-                            Text(
-                              "Platinum Plus",
-                              style: TextStyle(color: Colors.white),
+                            Expanded(
+                              child: Row(
+                                mainAxisAlignment:
+                                    MainAxisAlignment.spaceBetween,
+                                children: <Widget>[
+                                  Text(
+                                    "Platinum Plus",
+                                    style: TextStyle(color: Colors.white),
+                                  ),
+                                  // SizedBox(
+                                  //   width: 260,
+                                  // ),
+                                  Text(
+                                    "Exp 01/22",
+                                    style: TextStyle(color: Colors.white70),
+                                  ),
+                                ],
+                              ),
                             ),
                             SizedBox(
-                              width: 260,
-                            ),
-                            Text(
-                              "Exp 01/22",
-                              style: TextStyle(color: Colors.white70),
+                              width: 16,
                             ),
                           ],
                         ),
@@ -233,16 +244,27 @@ class AllCards extends StatelessWidget {
                             SizedBox(
                               width: 16,
                             ),
-                            Text(
-                              "Platinum Plus",
-                              style: TextStyle(color: Colors.white),
+                            Expanded(
+                              child: Row(
+                                mainAxisAlignment:
+                                    MainAxisAlignment.spaceBetween,
+                                children: <Widget>[
+                                  Text(
+                                    "Platinum Plus",
+                                    style: TextStyle(color: Colors.white),
+                                  ),
+                                  // SizedBox(
+                                  //   width: 260,
+                                  // ),
+                                  Text(
+                                    "Exp 01/22",
+                                    style: TextStyle(color: Colors.white70),
+                                  ),
+                                ],
+                              ),
                             ),
                             SizedBox(
-                              width: 260,
-                            ),
-                            Text(
-                              "Exp 01/22",
-                              style: TextStyle(color: Colors.white70),
+                              width: 16,
                             ),
                           ],
                         ),
@@ -342,16 +364,27 @@ class AllCards extends StatelessWidget {
                             SizedBox(
                               width: 16,
                             ),
-                            Text(
-                              "Platinum Plus",
-                              style: TextStyle(color: Colors.white),
+                            Expanded(
+                              child: Row(
+                                mainAxisAlignment:
+                                    MainAxisAlignment.spaceBetween,
+                                children: <Widget>[
+                                  Text(
+                                    "Platinum Plus",
+                                    style: TextStyle(color: Colors.white),
+                                  ),
+                                  // SizedBox(
+                                  //   width: 260,
+                                  // ),
+                                  Text(
+                                    "Exp 01/22",
+                                    style: TextStyle(color: Colors.white70),
+                                  ),
+                                ],
+                              ),
                             ),
                             SizedBox(
-                              width: 260,
-                            ),
-                            Text(
-                              "Exp 01/22",
-                              style: TextStyle(color: Colors.white70),
+                              width: 16,
                             ),
                           ],
                         ),

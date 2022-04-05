@@ -123,10 +123,6 @@ class AddCard extends StatelessWidget {
                           SizedBox(
                             width: 260,
                           ),
-                          Text(
-                            "Exp 01/22",
-                            style: TextStyle(color: Colors.white70),
-                          ),
                         ],
                       ),
                       SizedBox(
@@ -134,9 +130,8 @@ class AddCard extends StatelessWidget {
                       ),
                       ListTile(
                         leading: Text(
-                          "Sunny Aveiro",
-                          style: TextStyle(
-                              color: Color.fromARGB(255, 238, 233, 233)),
+                          "Exp 01/22",
+                          style: TextStyle(color: Colors.white70),
                         ),
                         trailing: Tab(
                           icon: new Image.asset(
